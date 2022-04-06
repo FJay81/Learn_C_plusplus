@@ -1,0 +1,15 @@
+1:Use indents for each curly brace, this is to make it easier to read!
+2:When you type something like a bracket or curly brace type the next one!
+3:c++ is case sensitive, so FJAY is different to FjAY.
+4:White spaces are ignored so you can have any amount of space unless they keywords or strings.
+5:Use two forward slashes to comment, only comment relevant things!
+6:Remember to change comments to keep relevant.
+7:You can use multi line comments with forward slash asterisk then asterisk forward slash to end.
+8:Use descriptive variable names.
+
+extensions to c++ are:
+    .cpp
+    .c++
+    .cxx
+    .cc
+    and all their caps and lower mix variants
