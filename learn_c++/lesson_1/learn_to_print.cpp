@@ -11,6 +11,7 @@ int main()//main function   //int is return type because we returning 0 most bas
     return 0;//anything before this is a statement  //will work fine without this
 }
 
+//all of this was created on a rpi 4
 //compile in terminal with 'g++ *.cpp'
 //x86_64-w64-mingw32-g++ to make it windows exec on pi
 //run with ./a.out
