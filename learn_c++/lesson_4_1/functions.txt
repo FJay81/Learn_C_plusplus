@@ -1,0 +1,39 @@
+Main function is always called when started
+Like python function when you run custom function it can have no data passed thruogh like 'pow();'
+Or it can have arguments like 'pow(10, 2);'
+If the function doesnt output use semi-colon, this is like if you want to assign it to something.
+But if the function doesnt have semi-colon then its becuase it looks something like 'int x = pow(10,2) * 5;'
+Where the semi-colon is after the thing.
+
+We can make our own functions which do something
+Instead copying and pasting the same thing a 100 times we can put the code into a function.
+We give this function an identifier such as 'do_this'
+Then when we want to call it all we do is call it like how we would call pow.
+This allows us to edit and adjust the functioins really easily.
+
+We create functions like:
+
+int multiply(int x, int y)
+{
+    x = x * x *y;
+    return x;
+}
+
+defines ^ function, also declares it. Have to declare before calling it
+
+And can run them like:
+
+multiply (7, 57);
+
+calls ^ function 
+
+Or:
+
+int x = 6
+multiply (x, 57)
+
+Or:
+
+int new = multiply(9, 6)
+
+Or whatever you feel like
