@@ -1,0 +1,15 @@
+When we create variables we define its data type eg int x or double y.
+This language is statically typed so once a variable has a data type it stays that type.
+With data types we always know what type of data is going going to be stored, this allows us to know how to use said variable.
+Data types:
+    integrel - like int but larger variety
+    char - characters
+    floating point - fractional/decimal numbers, float and double
+    bool - True/False
+    arrays - like a list for a specific data type, eg array of Ints 
+    structs/classes - custom?
+    classes - oop 
+    string - sequence of chars 
+
+integrel:
+    int - Usually 32 bit but always min 16 bit
