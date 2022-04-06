@@ -1,0 +1,13 @@
+for if statements there are logic operators;
+    - expression && expression = expression and expression
+    - expression || expression = expression or expression
+    - !(expression) = not(expression)
+    - name != input = name is_not input
+
+Comparison operators are;
+    - ==
+    - !=
+    - <
+    - >
+    - =>
+    - <=
