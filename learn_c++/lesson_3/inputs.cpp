@@ -6,7 +6,7 @@ using std::endl;
 
 int main()
 {
-    int pi = 3.142;//hard coded only be changed by source code
+    const pi = 3.142;//hard coded only be changed by source code
     float radius;
     cout << "radius of circle in cm" << endl;
     cin >> radius ;//Arows show data flow   //takes an input    //object    //inputs from console
