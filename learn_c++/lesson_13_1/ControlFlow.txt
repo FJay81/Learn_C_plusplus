@@ -1,0 +1,39 @@
+In control fow we have branching and we have looping.
+These are the main basis for any app.
+With branching we use if statements and switch statements.
+With loops its While, for and do-while loops.
+
+if statement:
+  
+    if(expression)//This will be true or false  //Execute when true
+        {
+            _code_
+        }
+
+    elseif(expression)//This will be true or false  //Execute when true
+        {
+            _code_
+        }
+
+    else//Will run if others are false
+        {
+            _code_
+        }
+
+
+switch statement:
+    
+    switch(variable)
+    {
+        case 17://equivalent to if
+            _code_
+            break
+        case _summat else_://equivalent to elseif
+            _code_
+            break
+        default://equivalent to else
+            _code_
+            break
+    }
+
+switch is only int types and only exact values. If statements are better, switches are useful for limited options.

@@ -1,0 +1,10 @@
+Initialize variable eg. int i = 0;
+Condition eg.  while(i <= 10)
+Update variable eg. {_code_; i++}
+
+for(int i = 0;i<10;i++)
+{
+    _code_
+}
+
+while true indefinite
