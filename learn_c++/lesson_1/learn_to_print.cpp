@@ -13,7 +13,7 @@ int main()//main function   //int is return type because we returning 0 most bas
 
 //all of this was created on a rpi 4
 //compile in terminal with 'g++ *.cpp'
-//x86_64-w64-mingw32-g++ to make it windows exec on pi
+//x86_64-w64-mingw32-g++ to make it windows exec on pi, first you wil need to run 'sudo apt-get install gcc-mingw-w64-x86-64 && apt-get install g++-mingw-w64-x86-64'
 //run with ./a.out
 //for any app to be multi platform use --static when you compile
 //use -o to make executable with custom name
